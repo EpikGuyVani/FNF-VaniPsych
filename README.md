@@ -1,4 +1,4 @@
-![PsychionalEngineLogo](docs/img/PsychEngineLogoTweak.png)
+![PsychionalEngineLogo](docs/img/woahidrk.png)
 
 hey this is some like psych engine fork, some of the code is from my friends and other engines, credit is given inside the engine and here.
 
