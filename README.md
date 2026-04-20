@@ -1,7 +1,7 @@
 ![PsychionalEngineLogo](docs/img/PsychEngineLogoTweak.png)
 
-hey this is some like psych engine fork (i barely know how to code)
-some of the code is from my friends and other engines, credit is given
+hey this is some like psych engine fork, some of the code is from my friends and other engines, credit is given.
+* below is the psych engine readme because im writing this in class actually lmao
 
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
