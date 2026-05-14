@@ -16,6 +16,7 @@ hey this is some like psych engine fork, some of the code is from my friends and
 ## planned features
 * new options to play around with
 * different chart editor theme
+* mac and linux support in packages
 
 ## credits:
 * EpikGuyVani: created the fork
