@@ -4,7 +4,9 @@ hey this is some like psych engine fork, some of the code is from my friends and
 (as of right now there isnt any code from any other engine but i will let you know when there is)
 
 #### NOTE!!!!
-vani psych does not have mac or linux versions in packages for right now, you need to compile the source code if you are a mac or linux user
+- vani psych does not have mac or linux versions in packages for right now, you need to compile the source code if you are a mac or linux user
+- i dont know why but the base game songs just dont exist (ill put them in later)
+- i suck at haxe and it took a week for me to figure out how to compile the game so cut me some slack
 
 ## features
 * everything from psych engine 1.0.4 (obviously)
