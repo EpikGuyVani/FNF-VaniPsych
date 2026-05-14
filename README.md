@@ -3,6 +3,9 @@
 hey this is some like psych engine fork, some of the code is from my friends and other engines, credit is given inside the engine and here.
 (as of right now there isnt any code from any other engine but i will let you know when there is)
 
+#### NOTE!!!!
+vani psych does not have mac or linux versions in packages for right now, you need to compile the source code if you are a mac or linux user
+
 ## features
 * everything from psych engine 1.0.4 (obviously)
 * optimized botplay lag
