@@ -1,6 +1,7 @@
 ![PsychionalEngineLogo](docs/img/woahidrk.png)
 
 hey this is some like psych engine fork, some of the code is from my friends and other engines, credit is given inside the engine and here.
+(as of right now there isnt any code from any other engine but i will let you know when there is)
 
 ## features
 * everything from psych engine 1.0.4 (obviously)
@@ -8,7 +9,8 @@ hey this is some like psych engine fork, some of the code is from my friends and
 * different hud i guess lol
 
 ## planned features
-* idk
+* new options to play around with
+* different chart editor theme
 
 ## credits:
 * EpikGuyVani: created the fork
