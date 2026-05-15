@@ -9,19 +9,20 @@ hey this is some like psych engine fork, some of the code is from my friends and
 - i suck at haxe and it took a week for me to figure out how to compile the game so cut me some slack
 
 ## features
-* everything from psych engine 1.0.4 (obviously)
-* optimized botplay lag
-* different hud i guess lol
+* everything from psych 1.0.4
+* botplay doesnt lag as much, great for showcasing!
+* different hud
 
 ## planned features
 * new options to play around with
 * different chart editor theme
 * mac and linux support in packages
+* softcoded menu's (this probably wont happen im sorry)
 
 ## credits:
 * EpikGuyVani: created the fork
-* ShadowMario: psych engine
-* everyone on the psych engine team and fnf team
+* ShadowMario: created the base of Vani Psych, Psych Engine
+* everyone on the fnf team and psych team
 
 #### Psych Engine by ShadowMario, Friday Night Funkin' by ninjamuffin99
 #### Vani Psych by EpikGuyVani
