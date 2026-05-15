@@ -11,7 +11,7 @@ enum MainMenuColumn {
 	CENTER;
 	RIGHT;
 }
-
+// CODE MAY BE OUTDATED!!!
 class MainMenuState extends MusicBeatState
 {
 	public static var psychEngineVersion:String = '1.0.4'; // This is also used for Discord RPC
