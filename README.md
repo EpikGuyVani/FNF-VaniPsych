@@ -1,13 +1,5 @@
 ![PsychionalEngineLogo](docs/img/woahidrk.png)
 
-hello! this project is kinda dead honestly, the psych fork doesnt really have much stuff and haxe is just uhh idk.
-
-currently im trying to make a powerful scratch engine. vani psych is simply just more optimized and more cosmetic i suppose lol
-
-use it if you want, i dont care.
-
-original description is below this text
-
 hey this is some like psych engine fork, some of the code is from my friends and other engines, credit is given inside the engine and here.
 (as of right now there isnt any code from any other engine but i will let you know when there is)
 
